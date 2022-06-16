@@ -1,0 +1,17 @@
+.map {
+  background-color: blue;
+  
+}
+#hint {
+  color: blue;
+}
+@media (min-width: 100px) and (max-widht: 720px) {
+  .map {background-color green;
+    transition: background-color, 0.5s;}
+}
+.map:hover {
+  background-color: red;
+}
+div {
+  background-color: gray;
+}

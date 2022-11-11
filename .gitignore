@@ -110,6 +110,8 @@ iOSInjectionProject/
 
 # End of https://www.gitignore.io/api/xcode,swift,cocoapods
 
+### macOS ###
+# General
 .DS_Store
-*/.DS_Store
-**/.DS_Store
+.AppleDouble
+.LSOverride

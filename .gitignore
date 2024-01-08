@@ -115,3 +115,6 @@ iOSInjectionProject/
 .DS_Store
 .AppleDouble
 .LSOverride
+
+## vscode
+.vscode

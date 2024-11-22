@@ -1,6 +1,17 @@
 {
   "files.associations": {
     "*.html": "html",
-    "iostream": "cpp"
-  }
+    "iostream": "cpp",
+    "string": "cpp",
+    "vector": "cpp",
+    "filesystem": "cpp",
+    "deque": "cpp",
+    "functional": "cpp",
+    "list": "cpp",
+    "map": "cpp",
+    "set": "cpp",
+    "unordered_map": "cpp",
+    "unordered_set": "cpp"
+  },
+  "C_Cpp.errorSquiggles": "disabled"
 }
